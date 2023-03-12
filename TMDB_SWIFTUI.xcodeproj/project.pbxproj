@@ -13,6 +13,7 @@
 		7CBE129B29BD7A6900B6948B /* TrendingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE129A29BD7A6900B6948B /* TrendingView.swift */; };
 		7CBE12A029BDBEA600B6948B /* TmdbDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE129F29BDBEA600B6948B /* TmdbDetailsView.swift */; };
 		7CBE12A329BDCAD200B6948B /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBE12A229BDCAD200B6948B /* SearchView.swift */; };
+		7CBE12A629BE22A300B6948B /* Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7CBE12A529BE22A300B6948B /* Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif */; };
 		7CC60D9429BC23AD0051F92E /* TMDB_SWIFTUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC60D9329BC23AD0051F92E /* TMDB_SWIFTUIApp.swift */; };
 		7CC60D9629BC23AD0051F92E /* TmdbInitialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC60D9529BC23AD0051F92E /* TmdbInitialView.swift */; };
 		7CC60D9829BC23AE0051F92E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CC60D9729BC23AE0051F92E /* Assets.xcassets */; };
@@ -57,6 +58,7 @@
 		7CBE129A29BD7A6900B6948B /* TrendingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingView.swift; sourceTree = "<group>"; };
 		7CBE129F29BDBEA600B6948B /* TmdbDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TmdbDetailsView.swift; sourceTree = "<group>"; };
 		7CBE12A229BDCAD200B6948B /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		7CBE12A529BE22A300B6948B /* Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif"; path = "../../../../Desktop/Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif"; sourceTree = "<group>"; };
 		7CC60D9029BC23AD0051F92E /* TMDB_SWIFTUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TMDB_SWIFTUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CC60D9329BC23AD0051F92E /* TMDB_SWIFTUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TMDB_SWIFTUIApp.swift; sourceTree = "<group>"; };
 		7CC60D9529BC23AD0051F92E /* TmdbInitialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TmdbInitialView.swift; sourceTree = "<group>"; };
@@ -153,9 +155,18 @@
 			path = TmdbSearchView;
 			sourceTree = "<group>";
 		};
+		7CBE12A429BE228100B6948B /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				7CBE12A529BE22A300B6948B /* Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		7CC60D8729BC23AD0051F92E = {
 			isa = PBXGroup;
 			children = (
+				7CBE12A429BE228100B6948B /* Assets */,
 				7CC60D9229BC23AD0051F92E /* TMDB_SWIFTUI */,
 				7CC60DA329BC23AE0051F92E /* TMDB_SWIFTUITests */,
 				7CC60DAD29BC23AF0051F92E /* TMDB_SWIFTUIUITests */,
@@ -373,6 +384,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CBE12A629BE22A300B6948B /* Simulator Screen Recording - iPhone 14 Pro - 2023-03-12 at 20.44.25.gif in Resources */,
 				7CC60D9B29BC23AE0051F92E /* Preview Assets.xcassets in Resources */,
 				7CC60D9829BC23AE0051F92E /* Assets.xcassets in Resources */,
 			);
