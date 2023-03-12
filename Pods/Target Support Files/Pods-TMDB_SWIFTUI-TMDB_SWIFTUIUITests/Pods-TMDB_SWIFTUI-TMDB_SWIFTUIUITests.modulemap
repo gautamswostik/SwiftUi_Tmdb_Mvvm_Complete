@@ -1,0 +1,6 @@
+framework module Pods_TMDB_SWIFTUI_TMDB_SWIFTUIUITests {
+  umbrella header "Pods-TMDB_SWIFTUI-TMDB_SWIFTUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

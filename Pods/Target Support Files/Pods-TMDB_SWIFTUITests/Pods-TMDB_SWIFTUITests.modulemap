@@ -1,0 +1,6 @@
+framework module Pods_TMDB_SWIFTUITests {
+  umbrella header "Pods-TMDB_SWIFTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
